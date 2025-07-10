@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/live-video-insight-platform-b19be3ee/video_questions_frontend"
+}
